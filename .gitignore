@@ -1,0 +1,13 @@
+*.pyc
+*~
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
+Scripts
+Lib
+Django girls
+README.md
+pip-selfcheck.json
+pyvenv.cfg
